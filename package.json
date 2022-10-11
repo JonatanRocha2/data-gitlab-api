@@ -1,0 +1,17 @@
+{
+  "name": "relatorio-integracao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gitlab-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module"
+
+}
