@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
 const MyHeaders = {
-    Authorization: 'Bearer glprd-QXh4AuA-1zK9aMM5jtnf'
+    Authorization: 'Bearer <seu-token-pessoal>'
 }
 
 function getProjectId() {
